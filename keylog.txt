@@ -1,0 +1,4 @@
+ [Key.shift] Hello [Key.space] this [Key.space] is [Key.space] a [Key.space] simeple [Key.space] keylogger. [Key.space]  [Key.shift] Prodigy [Key.shift] _ [Key.shift] CS [Key.shift] _04 [Key.cmd]  [Key.shift] S
+[*] Keylogger Stopped...
+
+ [Key.shift] Hello [Key.space] this [Key.space] is [Key.space] a [Key.space] simple [Key.space]  [Key.shift] Keylogger. [Key.shift_r]  [Key.enter]  [Key.shift] prodigy [Key.shift]  [Key.shift]  [Key.shift] _cs [Key.shift] _04 [Key.cmd]  [Key.shift] S
